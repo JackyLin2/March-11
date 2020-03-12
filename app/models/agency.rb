@@ -12,5 +12,11 @@ def self.last_client_agency
    self.last.clients
 end 
 
+def agency_name
+   self.name 
+end 
+
+
+
 
 end 
